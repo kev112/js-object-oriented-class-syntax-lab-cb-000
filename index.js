@@ -27,8 +27,6 @@ class BoardMember {
 
 }
 
-class Ceo {
-  constructor() {
-    
-  }
+class Ceo extends BoardMember{
+
 }
