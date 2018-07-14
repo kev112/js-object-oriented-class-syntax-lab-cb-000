@@ -6,6 +6,6 @@ class BoardMember {
   }
 
   veto() {
-    
-  }  
+
+  }
 }
